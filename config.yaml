@@ -1,0 +1,5 @@
+facilities_with_err_html_noweb: 'facilities_with_statuserror_html_or_no_website.csv'
+scraping_site: 'https://google.com/maps'
+facilities_with_possible_web: 'facilities_with_possible_websites.csv'
+facilities_with_filtered_web: 'facilities_with_filtered_website.csv'
+brand_sites: 'useful_sites.txt'
